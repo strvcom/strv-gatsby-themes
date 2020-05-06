@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "private": true,
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Peter Varholak <peter.varholak@strv.com>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "@strv/gatsby-theme-core": "^0.1.0",
+    "gatsby": "^2.21.13",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-helmet": "^6.0.0"
+  }
+}
