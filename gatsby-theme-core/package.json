@@ -1,9 +1,21 @@
 {
   "name": "@strv/gatsby-theme-core",
-  "version": "0.1.0",
+  "description": "A collection of tools for virtually any Gatsby project",
+  "version": "1.0.0",
   "main": "index.js",
   "author": "Peter Varholak <peter.varholak@strv.com>",
   "license": "MIT",
+  "keywords": [
+    "config",
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "strv"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strvcom/strv-gatsby-themes.git"
+  },
   "peerDependencies": {
     "gatsby": "^2.6.0",
     "react": "^16.13.1",
